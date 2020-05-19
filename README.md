@@ -18,3 +18,7 @@ sys.path.append("/root/root/lib")
 let ROOT = Python.import("ROOT")
 ```
 This will get fixed in the future.
+
+For more info on Swift-Python interoperability:
+* https://www.tensorflow.org/swift/tutorials/python_interoperability
+* https://github.com/tensorflow/swift/blob/master/docs/PythonInteroperability.md
